@@ -1,0 +1,2 @@
+# gamex
+a gaming page
